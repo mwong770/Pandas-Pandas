@@ -44,6 +44,7 @@
     * summarizes the reading and math scores by grade levels at each school
     * summarizes the scores by school spending, school size,  and school type
     * formats the data
+    * reports trends in school performance
 
 * Heroes_of_Pymoli
     * reads a csv file with purchase data
@@ -53,6 +54,7 @@
     * identifies the top spenders in the game
     * identifies the most popular items and most profitable items
     * formats the data
+    * reports trends in sales
 
 
 ## <a name="developer"></a> :bust_in_silhouette: Developer
